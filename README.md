@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Noah!
 
-### I am a BSc Computer Science Student 🎓
+### BSc Computer Science Student 🎓
 
 I'm currently developing my programming skills through Python projects, experimenting with new ideas, and documenting my progress on GitHub. My goal is to become a confident problem solver and continue building projects that challenge me to learn something new.
  
