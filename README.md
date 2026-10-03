@@ -1,6 +1,16 @@
-## Hi 👋 My name is Noah Bithell
+## Hi 👋 My name is Noah!
 
-### I am currently studying Computer Science in Leeds, UK
+### BSc Computer Science Student 🎓
+
+I'm currently developing my programming skills through Python projects, experimenting with new ideas, and documenting my progress on GitHub. My goal is to become a confident problem solver and continue building projects that challenge me to learn something new.
+ 
+### Currently learning
+🐍 Python
+🔧 Git & GitHub
+🖥️ Computing systems
+ 
+### Projects
+Check out my repositories to see what I'm currently building and learning.
 
 
 <!--
