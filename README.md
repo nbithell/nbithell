@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Noah Bithell
 
-# I am currently studying Computer Science in Leeds, UK
+### I am currently studying Computer Science in Leeds, UK
 
 
 <!--
