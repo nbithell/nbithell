@@ -1,4 +1,4 @@
-## Hi, my name is Noah!
+## Hi 👋 My name is Noah!
 
 ### BSc Computer Science Student
 
