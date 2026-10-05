@@ -6,9 +6,9 @@ I'm currently developing my programming skills through Python projects, experime
  
 ### Currently learning
 
-- 🐍 Python
-- 🔧 Git & GitHub
-- 🖥️ Computing systems
+- Python
+- Git & GitHub
+- Computing systems
  
 ### Projects
 Check out my repositories to see what I'm currently building and learning.
